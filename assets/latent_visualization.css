@@ -1,0 +1,13 @@
+
+#accuracy, #recall, #precision{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+#classification-type div.Select-menu-outer{
+    position: absolute;
+    transform: translateY(-100%);
+}
+
